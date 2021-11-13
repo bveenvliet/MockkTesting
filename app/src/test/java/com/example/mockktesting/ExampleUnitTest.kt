@@ -3,7 +3,6 @@ package com.example.mockktesting
 import io.mockk.every
 import io.mockk.mockk
 import io.mockk.spyk
-import io.mockk.unmockkAll
 import org.junit.After
 import org.junit.Test
 
